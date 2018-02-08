@@ -2,4 +2,4 @@
 =============================
 [https://softwareengineeringdaily.com/2016/02/12/10-philosophies-for-developers/](https://softwareengineeringdaily.com/2016/02/12/10-philosophies-for-developers/)
 
-I chose this article because most of us taking this course are likely to enter the work force out of graduation as a software engineer/developer. Therefore, I found it interesting and imperative to read up on some of the philosophies an engineer should know.
+I chose this article because most of us will be joining the work force after graduation as a software engineer/developer. Therefore, I found it interesting to read up on 10 philosophies for software engineers. This article was written in 2016, so I don't know how accurate it is now. However, I still found some interesting points. One thing that stoof out to me was that "as a software engineer, your downside is fundamentally capped". It says that the "high demand for engineers isn't dissipating any time soon". "The job marker is really good right now" and I hope it continues to be this way.
